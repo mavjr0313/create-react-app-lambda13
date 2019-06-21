@@ -6,7 +6,7 @@ The main addition to base Create-React-App is a new folder: `src/lambda`. Each J
 
 As an example, we've included a small `src/lambda/hello.js` function, which will be deployed to `/.netlify/functions/hello`. We've also included an async lambda example using async/await syntax in `async-chuck-norris.js`.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/create-react-app-lambda)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/create-react-app-lambda) [![Greenkeeper badge](https://badges.greenkeeper.io/mavjr0313/create-react-app-lambda13.svg)](https://greenkeeper.io/)
 
 ## Video
 
